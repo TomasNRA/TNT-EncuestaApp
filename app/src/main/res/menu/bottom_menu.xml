@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/listadoEncuestasFragment"
+        android:title="Encuestas"
+        />
+
+    <item
+        android:id="@+id/mapaFragment"
+        android:title="Mapa"/>
+
+    <item
+        android:id="@+id/estadisticasFragment"
+        android:title="Estadisticas"/>
+
+</menu>

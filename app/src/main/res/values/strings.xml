@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EncuestaApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Bienvenido!"</string>
+    <string name="invalid_username">Correo invalido</string>
+    <string name="invalid_password">La contraseña debe tener 5 caracteres o mas</string>
+    <string name="login_failed">"Acceso denegado"</string>
+</resources>
